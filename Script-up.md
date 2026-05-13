@@ -83,7 +83,7 @@ description: 【Script Up · 剧本分析工具】专业剧本分析工具，整
 - 平凡世界 vs. 特殊世界
 - 磨难与复活
 
-### 5. 序列法 (Sequence Method) ⭐ **新增**
+### 5. 序列法 (Sequence Method)
 **参考文档：** `references/sequence_method.md`
 
 **核心概念**：
@@ -93,7 +93,7 @@ description: 【Script Up · 剧本分析工具】专业剧本分析工具，整
 - 节奏与 pacing 分析
 - 专业剧本医生技术
 
-### 6. 场景构建 (Scene Construction) ⭐ **新增**
+### 6. 场景构建 (Scene Construction) 
 **参考文档：** `references/scene_construction.md`
 
 **核心概念**：
@@ -113,7 +113,7 @@ description: 【Script Up · 剧本分析工具】专业剧本分析工具，整
 - 人物关系（盟友、对手、爱情、导师、家庭）
 - 人物动线（物理、心理、情感、关系）
 
-### 8. 类型片惯例 (Genre Conventions) ⭐ **新增**
+### 8. 类型片惯例 (Genre Conventions)
 **参考文档：** `references/genre_conventions.md`
 
 **核心概念**：
@@ -128,7 +128,7 @@ description: 【Script Up · 剧本分析工具】专业剧本分析工具，整
 - 喜剧片、剧情片、科幻片
 - 犯罪片、西部片
 
-### 9. 主题与潜文本分析 (Theme and Subtext) ⭐ **新增**
+### 9. 主题与潜文本分析 (Theme and Subtext) 
 **参考文档：** `references/theme_analysis.md`
 
 **核心概念**：
@@ -138,7 +138,7 @@ description: 【Script Up · 剧本分析工具】专业剧本分析工具，整
 - 象征与隐喻追踪
 - 主题通过人物弧光体现
 
-### 10. 细致场景分析 (Detailed Scene Analysis) ⭐ **新增**
+### 10. 细致场景分析 (Detailed Scene Analysis) 
 **参考文档：** `references/detailed_scene_analysis.md`
 
 **核心概念**：
